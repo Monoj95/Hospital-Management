@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="src" path="target/work/plugins/cache-1.1.1/src/java"/>
+	<classpathentry kind="src" path="target/work/plugins/hibernate-3.6.10.10/src/groovy"/>
+	<classpathentry kind="src" path="target/work/plugins/resources-1.2.7/src/groovy"/>
+	<classpathentry kind="src" path="target/work/plugins/resources-1.2.7/src/java"/>
+	<classpathentry kind="src" path="target/work/plugins/scaffolding-2.0.2/src/java"/>
+	<classpathentry kind="src" path="target/work/plugins/spring-security-core-2.0-RC2/src/java"/>
+	<classpathentry kind="src" path="target/work/plugins/tomcat-7.0.52.1/src/java"/>
+	<classpathentry kind="lib" path="target/work/plugins/tomcat-7.0.52.1/grails-plugin-tomcat-7.0.52.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="target/work/plugin-classes"/>
+</classpath>
